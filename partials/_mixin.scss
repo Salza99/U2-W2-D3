@@ -1,0 +1,8 @@
+@mixin button($maincolor) {
+  font-size: 1rem;
+  font-family: $fontFamily;
+  color: $colorLink;
+  background-color: $maincolor;
+}
+@mixin titleBig() {
+}
